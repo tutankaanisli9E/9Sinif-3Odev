@@ -59,10 +59,13 @@ ivmenin doğrusunu çok değişik buldum google sheet a dahildir.
 
 # Bölüm 3 (Hala Beni Öldürmeyi Düşünmüyorsan)
 1) Bu deneyde ölçüm hatalarım var. Zamandaki ölçüm hatam sizce kaç ms (mili saniye) nedir? Konumdaki ölçüm hatam sizce kaç cm'dir? 
-
+7/60 saniye zaman ölçüm hatası. 33 frame de 55 değil 56 olması gerek cm nin
 2) Acaba hiç grafik çizmeden sürtünme katsayısını bulabilir miydim?  (Cevap: Evet). 
-Yardım:
+Yardım:Çünkü işlemi zorlaştıracak ek bir kuvvet etki etmiyor ivmenin ne kadar azaldığı ile bulabiliriz 
 * Düzgün ivmelenen bir cisim için alınan yol formülü x = (ilk hız+ son hız)/2*t, burdan cismin ilk hızını bulunuz. 
+1,609
+
 * Daha sonra iş-kinetik enerji teorimini kullanarak sürtünme kuvvetini bulun. Sürtünme kuvvetinden, kinetik sürtünme katsayısını bulunuz.
 
 3) Bu video'dan statik sürtünme katsayısını bulabilir miydim? 
+Hayır öünkü cismin hızlanmaya yeni başladığı hali gösterilmemiş.
